@@ -1,4 +1,5 @@
 💼 Business Systems Analyst | 💪 Mom of 3 | 🧠 Workflow Optimizer
+
 Welcome! I’m Chaching—a versatile Business Systems Analyst with a passion for making systems work smarter, not harder. This repo is a curated collection of projects, process maps, and documentation templates that reflect my real-world experience solving complex problems in production, logistics, and quality assurance environments.
 As a mom of three, I’ve mastered the art of multitasking, prioritization, and creative problem-solving. These skills translate directly into my professional life, where I thrive on streamlining workflows, reducing manual effort, and designing user-centric solutions that make people’s jobs easier.
 
