@@ -6,25 +6,20 @@ As a mom of three, I’ve mastered the art of multitasking, prioritization, and 
 🔍 What You'll Find Here
 - Process Mapping & Documentation
 Real examples of how I’ve visualized and optimized workflows to eliminate bottlenecks and improve team alignment.
-- SQL & Excel-Based Reporting
-Data-driven dashboards and queries that support decision-making and reduce reliance on manual tracking.
-- SOP Compliance & QA Templates
-Tools that ensure consistency, safety, and clarity across technical and operational teams.
 - User-Centric Design
 Solutions built with empathy—always focused on reducing friction for end-users and increasing adoption.
 
 🧰 Skills & Tools
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-
+Business & Requirements Analysis	- Visio | Lucidchart
+Project Management & Collaboration	- Jira | Smartsheet | Microsoft Project | Microsoft Teams | Confluence | SharePoint
+Testing & Quality Assurance	- Bruno | qTest
+Data & Analytics	- Excel | Alteryx | SQL | Snowflake
+Document & Template Management	- HotDocs | LaserPro | DMS (Document Mgmt System) | iVault | OnBase | DocuSign
+Access & Security	- Active Directory (User Provisioning & Access Management)
+Compliance & Risk	- SOX (Sarbanes–Oxley) | Audit Readiness
 
 
 💬 Why This Matters
 Whether I’m leading a robotics testing protocol or organizing a household of five, I bring structure, empathy, and results to every challenge. My goal is to create systems that work for people—not the other way around.
 
-📫 Let’s Connect
-If you’re interested in process improvement, user-focused design, or just want to swap productivity tips with a fellow multitasker, feel free to reach out or explore the projects in this repo.
+
